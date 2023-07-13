@@ -1,7 +1,8 @@
 {
   "associatedApplications": [
-    {
-      "applicationId": "16249e89-a123-4c3e-9a33-d0e4d01fd7e4"
-    }
+    { "applicationId": "16249e89-a123-4c3e-9a33-d0e4d01fd7e4" },
+    { "applicationId": "ea73530b-2c97-4f02-bac4-1df61133bd59" },
+    { "applicationId": "51e73bc1-82ce-46a0-b149-d0c758cdd812" },
+    { "applicationId": "c26cbb57-0d51-4b87-8828-deb06cd7e085" }
   ]
 }
